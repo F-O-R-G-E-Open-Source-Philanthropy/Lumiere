@@ -110,7 +110,7 @@ We reserve the right to block or remove access to official distribution channels
 
 We may update these terms from time to time. The latest version will always be available at:
 
-- `https://github.com/forge/lumiere/blob/main/TERMS_OF_SERVICE.md`
+- `https://github.com/F-O-R-G-E-Open-Source-Philanthropy/Lumiere/blob/main/legal%2FTERMS_OF_SERVICE.md`
 - Or directly in the "Terms & Privacy" section of the application.
 
 Continued use of the software constitutes acceptance of any changes.

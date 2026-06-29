@@ -1,7 +1,7 @@
 ```markdown
 # Privacy Policy
 
-**Last Updated:** June 28, 2025
+**Last Updated:** June 28, 2026
 
 ---
 

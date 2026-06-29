@@ -123,4 +123,4 @@ For any questions regarding these terms, please open an issue on our GitHub repo
 
 ---
 
-**Forge™ — Creatives owning their tools.**
+> **Forge™ — Creatives owning their tools.**

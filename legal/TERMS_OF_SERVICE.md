@@ -50,7 +50,7 @@ You are free to:
 - Distribute the software
 - Use the software commercially
 
-The full license text is available in the [LICENSE](https://github.com/forge/lumiere/blob/main/LICENSE) file in the repository.
+The full license text is available in the [LICENSE](https://github.com/F-O-R-G-E-Open-Source-Philanthropy/Lumiere/tree/main?tab=MIT-1-ov-file#) file in the repository.
 
 ---
 
